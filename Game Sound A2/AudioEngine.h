@@ -12,7 +12,7 @@
 #include <math.h>
 #include <iostream>
 
-#include <glm/glm.hpp>
+#include "glm/glm/glm.hpp"
 
 class AudioObject // Has helpers for audio classes
 {
